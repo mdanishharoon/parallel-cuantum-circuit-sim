@@ -3,6 +3,7 @@
 A distributed quantum circuit simulation framework that leverages **graph partitioning (METIS)**, **multi-node parallelism (MPI)**, and **intra-node acceleration (OpenCL/OpenMP)** to scale tensor network contractions for large quantum circuits.
 
 ---
+## [Link to Presentation](https://docs.google.com/presentation/d/15YkYsFm8WkFIVgqzzwpQaJmRpNWMUCb37mfhM6RkPaM/edit?usp=sharing)
 
 ## 🚀 Project Overview
 
@@ -25,5 +26,4 @@ This project simulates quantum circuits by modeling them as **tensor networks** 
 | Intra-node Compute| OpenCL / OpenMP    | Accelerated tensor contraction (OpenCL for GPUs, OpenMP for CPUs)      |
 
 ---
-## [Link to Presentation](https://docs.google.com/presentation/d/15YkYsFm8WkFIVgqzzwpQaJmRpNWMUCb37mfhM6RkPaM/edit?usp=sharing)
 
